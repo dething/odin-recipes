@@ -1,1 +1,2 @@
 # odin-recipes
+Este proyecto es parte del curriculum y plan de estudio de odin project, es para consolidar lo aprendido en relación a la creacion de una web HTML con links y los tags correspondiente asi como su estructura base. 
